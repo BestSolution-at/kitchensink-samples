@@ -1,3 +1,3 @@
 # kitchensink-samples
 
-Samples for different languages and project types
+Collection of samples for different languages and programming topics
