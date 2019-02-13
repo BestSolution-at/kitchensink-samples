@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Context
+Bundle-SymbolicName: at.bestsolution.e4.core.context;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: at.bestsolution.e4.core.context.Activator
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.e4.core.di;bundle-version="1.7.100",
+ org.eclipse.e4.core.contexts;bundle-version="1.7.100"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: at.bestsolution.e4.core.context
+Bundle-ActivationPolicy: lazy
